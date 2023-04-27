@@ -2,7 +2,6 @@
   observabilityIncluded = true
 
 [package]
-  distribution = "2201.4.1"
   name = "pconvet"
   org = "ramith"
   version = "0.1.0"
